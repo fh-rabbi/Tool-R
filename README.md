@@ -24,4 +24,4 @@ This tool from fazle rabby.You can easily install packages and hacking tools jus
 
 - $./fazle.sh
 
-* Now enjoy this tool & say thanks>
+# Now enjoy this tool & say thanks>
