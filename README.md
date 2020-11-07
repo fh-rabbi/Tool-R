@@ -26,3 +26,8 @@
 - $./fazle.sh
 
 # Now enjoy this tool & say thanks>
+
+
+# Tool screenshot :
+
+![](Screenshot_20200912-114919.png)
