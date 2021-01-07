@@ -1,7 +1,7 @@
 clear
 #colors
 green='\033[1;32m'
-echo -e "$green       This Tool from Fazle Rabby\e[31m          "
+echo -e "$green       This Tool from Fazle Rabbi\e[31m          "
 echo -e "
             ┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈
             ┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈
