@@ -25,7 +25,7 @@
 
 - $./fazle.sh
 
-# Now enjoy this tool & say thanks>
+☺ Now enjoy this tool & say thanks>
 
 
 # Tool screenshot :
