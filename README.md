@@ -3,27 +3,28 @@
 <p>This tool from fazle rabby.You can easily install packages and hacking tools just one click by using this tool....</p>
  
 # installation in termux
+```
+
+ $pkg install git -y
 
 
-- $pkg install git -y
+ $git clone https://github.com/fh-rabbi/Tool-R
 
 
-- $git clone https://github.com/fh-rabbi/Tool-R
+ $ls
 
 
-- $ls
+ $cd Tool-R
 
 
-- $cd Tool-R
+ $chmod +x *
 
 
-- $chmod +x *
+ $ls
 
 
-- $ls
-
-
-- $./fazle.sh
+ $./fazle.sh
+```
 
 ☺ Now enjoy this tool & say thanks>
 
